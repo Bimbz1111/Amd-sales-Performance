@@ -1,4 +1,4 @@
-# Amd-sales-Performance
+# Amdari-sales-Performance
 <img width="1089" alt="image" src="https://github.com/user-attachments/assets/c39ccd88-0c64-4d42-98c1-4b48d95b46fa" />
 I recently developed a comprehensive performance dashboard for Amdari sales & Consulting Group, a consulting firm aiming to gain deeper insights into its sales drivers and profitability factors. This innovative dashboard addresses key challenges by offering clear visualizations of regional performance, quality metrics, and product category contributions.
 
